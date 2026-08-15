@@ -1,9 +1,10 @@
-
 # React Trippy Travel Website
+
+🌐 **Live Demo:** https://react-trippy-webapp.netlify.app/
 
 A modern and responsive travel website built with React and Vite. It helps users explore travel destinations, services, tour packages, gallery moments, and contact options.
 
-### Features
+## Features
 
 - Responsive navigation bar with hover effects
 - Modern travel-themed landing page
@@ -31,33 +32,33 @@ Make sure you have Node.js and npm installed.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/HafizIkrashUE/react-trippy-travel-website.git
-   ```
+```bash
+git clone https://github.com/HafizIkrashUE/react-trippy-travel-website.git
+````
 
 2. Open the project folder:
 
-   ```bash
-   cd react-trippy-travel-website
-   ```
+```bash
+cd react-trippy-travel-website
+```
 
 3. Install dependencies:
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 4. Start the development server:
 
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
 
 5. Open the local URL shown in your terminal, usually:
 
-   ```text
-   http://localhost:5173
-   ```
+```text
+http://localhost:5173
+```
 
 ## Build for Production
 
@@ -92,4 +93,6 @@ Created by Hafiz Ikrash.
 ## License
 
 This project is for educational and portfolio purposes.
+
+```
 ```
