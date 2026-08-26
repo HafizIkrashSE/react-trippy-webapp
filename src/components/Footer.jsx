@@ -32,7 +32,7 @@ function Footer() {
           <strong>Hafiz Ikrash</strong>
 
           <a
-            href="https://github.com/HafizIkrashUE"
+            href="https://github.com/HafizIkrashSE"
             target="_blank"
             rel="noreferrer"
           >
